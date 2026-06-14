@@ -1,5 +1,5 @@
-Data analysis->1st chapter\n
-Forecasting models->2nd chapter\n
+Data analysis->1st chapter
+Forecasting models->2nd chapter
 Energy cost->3rd chapter
 Smart scheduling->4th chapter
 Economic evaluation-> 5th Chapter
